@@ -1,0 +1,2 @@
+# Piratebox
+Repository for updater
